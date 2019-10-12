@@ -10,6 +10,7 @@ Bamazon is a moke amazon application that allows you to cheack the health and be
 6. Updates Inventory
 
 # Video 
+Check github for video
 
 # Languges Used
 - Javascript
